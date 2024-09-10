@@ -16,3 +16,11 @@ Bullet points:
 * point 1
 * point 2
   * point2.1
+---
+Code Snippets
+```
+ptint('Hello World')
+print(datetime.datetime.now())
+for i in range(5):
+   print(i)
+```
