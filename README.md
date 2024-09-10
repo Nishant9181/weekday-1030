@@ -25,3 +25,10 @@ print(datetime.datetime.now())
 for i in range(5):
    print(i)
 ```
+---
+Tables
+|ID|Name|
+|--|---|
+|1|nishant|
+|2|srishti|
+|3|tanz|
