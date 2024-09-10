@@ -19,6 +19,7 @@ Bullet points:
 ---
 Code Snippets
 ```
+import datetime
 ptint('Hello World')
 print(datetime.datetime.now())
 for i in range(5):
